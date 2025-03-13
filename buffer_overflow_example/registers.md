@@ -6,7 +6,7 @@ The 64-bit registers have names beginning with "r", so for example the 64-bit ex
 
 The lower 32 bits, 16 bits, and 8 bits of each register are directly addressable in operands. 
 
-This includes registers, like **esi**, whose lower 8 bits were not previously addressable. 
+This includes registers, like a **esi**, whose lower 8 bits were not previously addressable. 
 
 The following table specifies the assembly-language names for the lower portions of 64-bit registers.
 
